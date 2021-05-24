@@ -83,6 +83,7 @@ p {
 .nav-item {
     padding-right: 18px;
     padding-left: 18px;
+    text-align: center;
 }
 
 .nav-link {
