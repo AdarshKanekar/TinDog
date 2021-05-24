@@ -83,12 +83,13 @@ p {
 .nav-item {
     padding-right: 18px;
     padding-left: 18px;
-    text-align: center;
+    
 }
 
 .nav-link {
     font-family: 'Montserrat-Light';
     font-size: 1.2rem;
+    text-align: right;
 }
 
 /* Download Button */
